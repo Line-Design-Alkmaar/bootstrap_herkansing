@@ -1,0 +1,33 @@
+.container-fluid{
+    background-color: lightblue;
+}
+
+.blockquote{
+    margin: 50px;
+}
+
+.container-sm{
+    margin: 80px;
+}
+
+P{
+    color: darkblue;
+    
+}
+
+.container-p{
+    padding-top: 80px;
+}
+
+.custom-footer {
+    background-color: lightblue; 
+    padding: 20px 0; 
+    font-size: 14px;
+    height: 200px;
+    
+}
+
+.footer-container{
+    margin: 40px;
+    
+}
